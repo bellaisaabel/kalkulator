@@ -1,2 +1,3 @@
-DTS Batch 2 Mini Project Kalkulator
-Link Project https://bellaisaabel.github.io/kalkulator/
+# Project Kalkulator
+Digital Talent Scholarship 2020 Batch 2 Mini Project Kalkulator
+https://bellaisaabel.github.io/kalkulator/
